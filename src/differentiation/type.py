@@ -1,6 +1,4 @@
 
-
-
 class Expression(object):
     # template
     def __init__(self, value):

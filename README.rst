@@ -1,6 +1,14 @@
-# Derivatives
+===============
+differentiation
+===============
 
-* calculate symbolic differentiation from symbolic expressions
+
+calculate symbolic differentiation from symbolic expressions
+
+
+Description
+===========
+
 * supporting functions
     * `Number` (0, 1, 2, ...)
     * `Variable` ('x', 'y', 'z', ...)
@@ -11,7 +19,7 @@
     * `ConstantExponentiation` (exp b e)
     * `Logarithm` (log c e)
 * simple rules for reduction
-* TO-DOs : 
+* TO-DOs :
     * sort-by-functions
     * distributive law
     * multiple arguments
@@ -20,3 +28,9 @@
         * trigonometrics
         * exponentiation / logarithm with non-constant base
     * advanced reduction
+
+Note
+====
+
+This project has been set up using PyScaffold 3.1. For details and usage
+information on PyScaffold see https://pyscaffold.org/.
